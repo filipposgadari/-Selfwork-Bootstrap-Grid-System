@@ -3,6 +3,14 @@ img {
     width: 250px;
 }
 
+h1 {
+    letter-spacing: 10px;
+}
+
+h2 {
+    letter-spacing: 4px;
+}
+
 
 /* Media query */
 @media screen and (min-width: 730px) {
@@ -46,5 +54,9 @@ img {
     
     footer > .row {
         width: 100%;
+    }
+
+    h1 {
+        align-items: center;
     }
 }

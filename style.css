@@ -13,7 +13,7 @@ h2 {
 
 
 /* Media query */
-@media screen and (min-width: 730px) {
+/* @media screen and (min-width: 730px) {
     img {
         height: 220px;
         width: 220px;
@@ -37,10 +37,10 @@ h2 {
     footer > .row {
         width: 100%;
     }
-}
+} */
 
 /* Media query */
-@media screen and (max-width: 730px) {
+/* @media screen and (max-width: 730px) {
     
     .col-4 {
         flex-direction: column;
@@ -59,4 +59,4 @@ h2 {
     h1 {
         align-items: center;
     }
-}
+} */
